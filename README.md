@@ -18,6 +18,9 @@ using a web project.
 
 ## How to Contribute
 
+Please fork this repository and then issue pull
+requests for review.
+
 ## Deployment
 
 This is a simple web project, deployment
